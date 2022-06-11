@@ -1,10 +1,10 @@
 <!-- [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only) -->
 
-- 👋 Hi, I’m @TMinh25
+- 👋 Hi, I’m TMinh
 - 👀 I’m interested in web & mobile development
 - 🌱 I’m currently learning NodeJS & ReactJS
-- 💞️ I’m looking to collaborate on frontend and some backend/APIs
+- 💞️ I’m looking to collaborate on both frontend and backend/APIs
 - 🚀 All repo in my profile is done by the team of me and myself
 - 📫 How to reach me minhsip2510@gmail.com
 
